@@ -4,12 +4,8 @@
 
 ![]() 
 ### components
-1.----------
- []( Window manager - i3-wm )
-2.----------
- []( Editor - Neovim )
-4.----------
- []( compositor manager - picom )
-5.----------
- 
+- Windows manager - i3-wm
+- Bar -i3blocks 
+- Composite manager - Picom
+
 
