@@ -1,4 +1,4 @@
-# i3-neovka desktop environment
+<hi align="center"> i3-neovka desktop environment</h1>
 
 ## A attempt personalization of desktop environment with i3-wm 
 
